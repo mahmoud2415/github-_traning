@@ -4,16 +4,7 @@
 
 
 //edit this file
-const branches = [
-  {
-    id: "ismailia",
-    name: "فرع الإسماعيلية - شبين",
-    phone: "01020805451",
-    whatsapp: "201020805451",
-    address: "الإسماعيلية - حي شبين الكوم - بجوار ميدان شبين",
-    deliveryFee: 15,
-    mapLink: "https://maps.google.com/?q=شبين+الكوم+الاسماعيلية"
-  },
+
   {
     id: "faqous-manshiya",
     name: "فرع فاقوس - المنشية",
