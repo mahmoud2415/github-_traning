@@ -7,6 +7,7 @@
 
   {
     id: "faqous-manshiya",
+      status:"active"
     name: "فرع فاقوس - المنشية",
     phone: "01002552421",
     whatsapp: "201002552421",
