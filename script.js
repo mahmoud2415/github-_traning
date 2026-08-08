@@ -7,6 +7,7 @@
 const branches = [
   {
     id: "ismailia",
+    state:"active",
     name: "فرع الإسماعيلية - شبين",
     phone: "01020805451",
     whatsapp: "201020805451",
